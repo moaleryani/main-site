@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f1e3;
+  color: #775144;
+}
+
+.glossy {
+  color: #000000;
+  background-color: #f8f1e3;
+  height: 100%;
+  width: 100%;
+}
+
+.paper {
+  margin: 3rem 20%;
+  color: #000000;
+  background-color: #f8f1e3;
+  -moz-box-shadow: 0 0 3px #ccc;
+  -webkit-box-shadow: 0 0 3px #ccc;
+  box-shadow: 0 0 3px #ccc;
+  padding: 2rem 5rem;
+}
+
+h1 {
+  text-align: center;
+}
